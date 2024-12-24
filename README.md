@@ -14,7 +14,7 @@ Sou um programador Full Stack, atualmente estou aprendendo e estou criando proje
 
   <p>Aqui está meu email de contato: JAranha21@gmail.com</p>
   <p>
-    <a href="https://www.linkedin.com/in/josé-de-aranha-65b49b2bb">
+    <a href="https://www.linkedin.com/in/josé-aranha">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
   </p>
