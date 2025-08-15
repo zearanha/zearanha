@@ -1,7 +1,7 @@
 ## Olá, eu sou José Aranha 👋
 
 Sou um desenvolvedor **Full Stack** apaixonado por criar soluções que impactem positivamente a sociedade.  
-Atualmente estou focado em desenvolver projetos utilizando as tecnologias mais modernas do mercado.
+Trazendo soluções inovadoras por meio das tecnologias que domino, com o objetivo de transformar ideias em realidade através de linhas de código.
 
 ---
 
