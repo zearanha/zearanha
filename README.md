@@ -24,13 +24,13 @@ Atualmente estou focado em desenvolver projetos utilizando as tecnologias mais m
 <a href="mailto:JAranha21@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/josé-aranha">
+<a href="https://www.linkedin.com/in/jose-aranha">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="tel:+5575982489610">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
-<a href="https://www.instagram.com/zespider__?igsh=MWZlaXl6bHFycjJnbg==">
+<a href="https://www.instagram.com/zearanha_?igsh=MWZlaXl6bHFycjJnbg==">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
